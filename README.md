@@ -44,5 +44,3 @@ Ramakant Sahu
 B.Tech CSE | Data Science & AI Enthusiast
 LinkedIn Profile : https://www.linkedin.com/in/ramakant-sahu-3608002ab/
 
-Would you like me to **generate a perfect README.md file** customized for your exact project (with your name, tech stack, and run commands prefilled)?  
-You can just copy-paste it into your repo.
